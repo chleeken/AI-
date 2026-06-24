@@ -1,0 +1,19 @@
+{
+  "api_key": "sk-97b81346f852404f9dbfde49b41a7ef7",
+  "api_url": "https://api.deepseek.com/v1/chat/completions",
+  "temperature": 0.5296610169491526,
+  "max_tokens": 4096,
+  "model": "deepseek-v4-flash",
+  "provider": "custom",
+  "nvidia_api_key": "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",
+  "nvidia_api_url": "https://integrate.api.nvidia.com/v1/chat/completions",
+  "nvidia_model": "deepseek-ai/deepseek-v4-flash",
+  "openai_api_key": "sk-k5VewQA4nLkldZzE463644E43a3243Ea8bEa83Af2eEc86D2",
+  "openai_api_url": "http://localhost:3000",
+  "openai_model": "autoapi",
+  "custom_api_key": "sk-pVHpvxrmSA47hxn4rcifWKjx2s9MuuS5",
+  "custom_api_url": "http://127.0.0.1:3000/v1/chat/completions",
+  "custom_model": "virtual-model",
+  "custom_name": "virtual",
+  "version": 1.001
+}
